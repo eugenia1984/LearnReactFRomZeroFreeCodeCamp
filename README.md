@@ -8,31 +8,29 @@ A [YouTube](https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=2s) course from FreeCo
 
 ## Builded with 🛠️
 
-**HTML 5** ,  **CSS3**  , **JAVASCRIPT** & **REACT**
-
-
- 
+**HTML 5** , **CSS3** , **JAVASCRIPT** & **REACT**
 
 ## Please: 🎁
 
-* Share this proyect with others 📢
+- Share this proyect with others 📢
 
-* Invite a beer 🍺 or a coffee ☕  to someone of the team. 
+- Invite a beer 🍺 or a coffee ☕ to someone of the team.
 
-* Thanks a lot 🤓.
+- Thanks a lot 🤓.
 
 ---
 
 ## Notes
 
-I appreciate your interest in this Project ⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me at [LinkedIn]( http://www.linkedin.com/in/maríaeugeniacosta)
+I appreciate your interest in this Project ⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me at [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta)
 
 ---
+
 ---
 
 ESPAÑOL
 
-# :book:  Aprende react desde Cero - Curso de React con proyectos - FreeCodeCamp
+# :book: Aprende react desde Cero - Curso de React con proyectos - FreeCodeCamp
 
 ---
 
@@ -48,7 +46,7 @@ ESPAÑOL
 
 ## Proyectos:
 
-- Clon de testimonios de FreeCodeCamp
+- [Clon de testimonios de FreeCodeCamp](https://github.com/eugenia1984/LearnReactFRomZeroFreeCodeCamp/tree/main/clon_de_testimonios)
 
 - Contador de clicks
 
@@ -64,14 +62,13 @@ ESPAÑOL
 
 ---
 
-
 ## Por favor: 🎁
 
-* Comparte este proyecto con otros 📢
+- Comparte este proyecto con otros 📢
 
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
+- Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
 
-* Muchas gracias 🤓.
+- Muchas gracias 🤓.
 
 ---
 
@@ -80,4 +77,3 @@ ESPAÑOL
 Agradezco su interés en este proyecto ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984) 😊 y sígueme en [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta)
 
 ---
-
