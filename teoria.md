@@ -271,10 +271,33 @@ import ReactDOM from 'react-dom';
 
 ### :star: Self closing tags
 
+Hay elementos que no necesitan etqieutas de cierre.
+
+*self closing tag* -> elemento que solo posee una etiqueta de apertura ya que no contiene texto u otros elementos.
+
+Los componentes pueden ser self closing tags.
+
+Ejemplo:
+
+```JavaScript
+<img src="logo.png" alt="Mi imagen" />
+```
+
 ---
 ---
 
 ### :star: Insertar JS en JSX
+
+
+Las **{}** indican que adentro hay código JavaScript.
+
+```JavaScript
+let adjetivo = "Interesante";
+
+<p>React es {adjetivo}</p>
+
+<p> El resultado es: {5*6}</p>
+```
 
 ---
 ---
