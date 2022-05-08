@@ -6,6 +6,12 @@ A [YouTube](https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=2s) course from FreeCo
 
 ---
 
+### Projects
+
+[FreeCodeCamp testimonials clone](https://github.com/eugenia1984/LearnReactFRomZeroFreeCodeCamp/tree/main/clon_de_testimonios)
+
+---
+
 ## Builded with 🛠️
 
 **HTML 5** , **CSS3** , **JAVASCRIPT** & **REACT**
