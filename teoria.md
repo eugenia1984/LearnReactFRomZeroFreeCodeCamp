@@ -6,7 +6,7 @@
 
 ---
 
-## :start: Teoría
+## :star: Teoría
 
 **React** es una **biblioteca** de JS de código abierto diseñada para crear interfaces de usuario (**UI**).
 
@@ -32,9 +32,9 @@ Componente...
 
 - debe comenzar con una letra mayúscula
 
-- puede recibir valores si es necesario
+- puede recibir valores si es necesario, es React se llaman *props* (properties), son argumentos que puede recibir un componente de React (son similar a los argumentos que recibe una funcion al ser invocada en JS). En React ciertos componentes van a generar otros componentes, para crear la estructura, y podemos personalizar propiedades(caracteristicas) con las props.
 
-Ejemplo:
+Ejemplo, props es como un objeto, por eso con *dot notation* utilizo su propiedad:
 
 ```JavaScript
 function Saludos(props) {
