@@ -6,6 +6,30 @@ A [YouTube](https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=2s) course from FreeCo
 
 ---
 
+## Builded with 🛠️
+
+**HTML 5** ,  **CSS3**  , **JAVASCRIPT** & **REACT**
+
+
+ 
+
+## Please: 🎁
+
+* Share this proyect with others 📢
+
+* Invite a beer 🍺 or a coffee ☕  to someone of the team. 
+
+* Thanks a lot 🤓.
+
+---
+
+## Notes
+
+I appreciate your interest in this Project ⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me at [LinkedIn]( http://www.linkedin.com/in/maríaeugeniacosta)
+
+---
+---
+
 ESPAÑOL
 
 # :book:  Aprende react desde Cero - Curso de React con proyectos - FreeCodeCamp
