@@ -1,6 +1,6 @@
 # :book: Proyecto: Contador de clicks
 
-Tiene dos componentes *boton* y *contador*
+Tiene dos componentes _boton_ y _contador_ y se utilizan los **hooks** para manejar estados.
 
 ---
 
