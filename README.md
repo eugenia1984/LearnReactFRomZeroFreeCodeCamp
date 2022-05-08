@@ -46,6 +46,18 @@ ESPAÑOL
 
 ---
 
+## Proyectos:
+
+- Clon de testimonios de FreeCodeCamp
+
+- Contador de clicks
+
+- Calculadora interactiva
+
+- Aplicación de tareas
+
+---
+
 ## Construido con 🛠️
 
 **HTML 5**, **CSS3** , **JAVASCRIPT** y **REACT**
