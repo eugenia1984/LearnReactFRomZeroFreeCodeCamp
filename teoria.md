@@ -110,6 +110,7 @@ Función en JS que es ejecutada cuando ocurre un evento específico.
 
 
 ---
+---
 
 
 ### :star: ¿ Que se necesita tener para armar una app en React ?
@@ -117,6 +118,7 @@ Función en JS que es ejecutada cuando ocurre un evento específico.
 - Node.js, el entorno de ejecución para JS construido con el V8, motor de JS de Chrome; lo que nos permite ejecutar JS fuera de un browser.
 
 
+---
 ---
 
 ### :star: JSX
@@ -138,5 +140,33 @@ Ejemplo en codigo:
 ```JavaScript
 const elemento = <h1>Hola, mundo!</h1>;
 ```
+
+---
+
+### :star: Elemento
+
+Los *elementos* son las unidades más pequeñas en React. Definen lo que se ve en la pantalla.
+
+
+**Elementos vs. Componentes**
+
+- Los componentes en React están hechos de elementos.
+
+
+---
+
+### ¿ Cómo muestro el componente ?
+
+Voy a tener un archivo HTML, con:
+
+```HTML
+<div id="root"></div>
+```
+
+**root** es el elemento principal que contiene a toda la aplicación. Este prodceso de inserción de la aplicación está manejado por *ReactDOM*
+
+### :star: ReactDOM
+
+Paquete que facilita la interacción y actualización del DOM en aplicaicones React.
 
 ---
