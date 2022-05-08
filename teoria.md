@@ -152,10 +152,15 @@ Los *elementos* son las unidades más pequeñas en React. Definen lo que se ve e
 
 - Los componentes en React están hechos de elementos.
 
+- Los elementos son más básicos que los componentes.
+
+- Los elementos son las unidades básicas.
+
 
 ---
 
 ### ¿ Cómo muestro el componente ?
+
 
 Voy a tener un archivo HTML, con:
 
@@ -165,8 +170,40 @@ Voy a tener un archivo HTML, con:
 
 **root** es el elemento principal que contiene a toda la aplicación. Este prodceso de inserción de la aplicación está manejado por *ReactDOM*
 
+
 ### :star: ReactDOM
 
-Paquete que facilita la interacción y actualización del DOM en aplicaicones React.
+Paquete que facilita la interacción y actualización del **DOM** (Document Object Model: representación en el navegador de todos lso elementos que conforman una página o aplicación web) en aplicaicones React.
+
+
+---
+
+### :star: JSX
+
+
+- Con JSX podes crear y usar cualquier elemento HTML, coo por ejemplo: ```<div>```, ```<img>```, ```<a>```, ```<header>```, ```<nav>```, ```<p>```, ```<h1>```, ```<button>```, ```<footer>```, ```<h2>```
+
+
+- ¿Cómo reconozco un *elemento* de un *componente*? 
+
+En JSX, los elementos HTML se representan con etiquetas en letras minúsculas.
+
+En JSX; los componentes comienzan con una letra mayúscula, por ejemplo ```<Boton />```
+
+- En JSX puedo designar **atributos** a los elementos, para especificar ciertas caracterñisticas, se pueden agregar clases, estilos y id, entre otros, pero.. algunos atributos se escribien de distinta forma a HTML, como:
+
+-> **className**. **class** es una palabra reservada en JS para crear una clase, por eso en JSX debe escribirse distinto.
+
+
+-> **htmlFor**
+
+-> el atributo **style** acepta un objeto JS con propiedades CSS escritas en camelCase, por ejemplo en CSS *background-image* y en JSX *bakgroundImage*, por ejemplo:
+
+```JavaScript
+const estiloDiv = {
+  color: 'yellow',
+  backgroundColor: 'black'
+};
+```
 
 ---
