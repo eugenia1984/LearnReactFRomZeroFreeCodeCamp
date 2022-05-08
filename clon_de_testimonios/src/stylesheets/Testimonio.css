@@ -1,12 +1,19 @@
 .contenedor-testimonio {
-  width: 1170px;
-  height: 368px;
+  width: 100%;
+  height: auto;
   margin: 10px 10px 50px;
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: row;
   background-color: #fff;
   box-shadow: 0 3px 13px 1px rgb(0 0 0/ 9%);
+}
+
+@media only screen and (max-width: 767px) {
+  .contenedor-testimonio {
+    flex-direction: column;
+  }
 }
 
 .imagen-testimonio {
