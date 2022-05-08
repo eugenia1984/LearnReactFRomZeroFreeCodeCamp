@@ -225,8 +225,56 @@ Paquete que facilita la interacción y actualización del **DOM** (Document Obje
 ---
 ---
 
-### :star: Estructura de un componente
+### :star: Estructura de un componente con elmentos anidados
 
 Al igual que en HTML, los elementos pueden ser **anidados** en JSX para formar estructuras más complejas.
 
+
+---
+---
+
+### :star: Cómo renderizar componentes y elementos
+
+En la app voy a tenr un archivo *html* que va a tener un **div** con el *id* **root** y será el contenedor principal:
+
+```html
+<div id="root"></div>
+```
+
+Y en los archivos **.js** voy a ir teniendo mis componentes y elementos.
+
+Por ejemplo:
+
+```JavaScript
+const elemento = <h1>Hola Mundo</h1>;
+
+ReactDOM.render(
+   elemento,
+   document.getElementById('root')
+);
+```
+
+*elemento* -> elemento a renderizar
+
+*document.getElementById('root')* -> contenedor para el elemento
+
+Dentro del div con ID *root* se va a renderizar el h1 *Hola Mundo*.
+
+Pero, para poder utilizar el método render() primero tengo que importar el paquete react-dom:
+```JavaScript
+import ReactDOM from 'react-dom';
+```
+
+
+---
+---
+
+### :star: Self closing tags
+
+---
+---
+
+### :star: Insertar JS en JSX
+
+---
 ---
