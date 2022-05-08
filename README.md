@@ -16,7 +16,9 @@ ESPAÑOL
 
 ---
 
-:arrow_right: [Aca está la teoría](https://github.com/eugenia1984/LearnReactFRomZeroFreeCodeCamp/blob/main/teoria.md)
+:arrow_right: [Aca está la teoría de JSX](https://github.com/eugenia1984/LearnReactFRomZeroFreeCodeCamp/blob/main/teoria.md)
+
+:arrow_right: [Aca está la teoría de create react app](https://github.com/eugenia1984/LearnReactFRomZeroFreeCodeCamp/blob/main/create_react_app.md)
 
 ---
 

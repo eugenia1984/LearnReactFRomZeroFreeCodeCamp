@@ -299,5 +299,13 @@ let adjetivo = "Interesante";
 <p> El resultado es: {5*6}</p>
 ```
 
+También podés llamar a un método:
+
+```JavaScript
+let nombre = "Gino";
+
+<p> Su nombre es: {nombre.toUpperCase()}</p>
+```
+
 ---
 ---
