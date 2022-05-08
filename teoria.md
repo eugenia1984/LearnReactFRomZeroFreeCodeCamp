@@ -26,9 +26,24 @@ Ventajas...
 
 ... buen desempeño.
 
+
+---
 ---
 
-### Componentes
+
+#### :star: Conceptos:
+
+- Componentes
+
+- Estado
+
+- Hooks
+
+- Event Listener
+
+---
+
+#### Componentes
 
 *componente* -> parte de la interfaz de usuario que es independiente (cada componente tiene un estado y una funcionalidad específica)  y reusable (el mismo componente se define una vez y puede ser utilizado varias vaces).
 
@@ -71,11 +86,57 @@ class Saludo extenss React.Component {
 }
 ```
 
+#### Hooks
+
+¿Por qué tener dos tipos de componentes ?
+
+Anteriormente usábamos componentes de *clase* para poder trabajar con *estados* de nuestros componentes. En versiones anteriores a la 16.8 de REact no podíamos hacerlo en *componentes funcionales*.
+
+Llegaron los **hooks** y nos permiten agregar estados a los *componentes funcionales*. Ahora sí podemos asignar y actualizar el estado de un componente funcional en React con los hooks.
+
 ---
 
-### Estado
+#### Estado
 
 Representación en JS del conjunto de propiedades de un componentes y sus valores actuales.
 
+*hook* -> función especial que te permite trabajar con estados en componentes funcionales y otros espectos de React. Sin escribir un componente de clase. Esto nos permite escribir código mucho más conciso y fácil de entender.
+
 ---
 
+#### Event Listener (Event Handler)
+
+Función en JS que es ejecutada cuando ocurre un evento específico.
+
+
+---
+
+
+### :star: ¿ Que se necesita tener para armar una app en React ?
+
+- Node.js, el entorno de ejecución para JS construido con el V8, motor de JS de Chrome; lo que nos permite ejecutar JS fuera de un browser.
+
+
+---
+
+### :star: JSX
+
+JSX es una extensión de React para la sintaxis de JS.
+
+Nos permite describir en JS cómo se verán los componentes usando una estructura similar a HTML.
+
+Ventajas:
+
+- estructura más fácil de visualizar
+
+- errores y advertencias más útiles
+
+JSX es *opcional*, pero es recomendado.
+
+Ejemplo en codigo:
+
+```JavaScript
+const elemento = <h1>Hola, mundo!</h1>;
+```
+
+---
