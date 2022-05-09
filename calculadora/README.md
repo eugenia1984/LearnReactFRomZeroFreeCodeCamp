@@ -1,8 +1,12 @@
 # :book: Proyecto: Calculadora
 
-Proyecto del curso de FreeCodeCamp **Aprende React desde Cero - Curso de React con proyectos**
+Proyecto del curso de FreeCodeCamp **Aprende React desde Cero - Curso de React con proyectos**, realicé una calculadora.
 
-Utilizo las **props children** para poder utilizarla en los componentes hijos
+Utilizo las **props children** para poder utilizarla en los componentes hijos.
+
+Defino el componente Patanlla como un _Componente Funcionar_ con una _arrow function_.
+
+Implemento el **hook** _useState_.
 
 ---
 
