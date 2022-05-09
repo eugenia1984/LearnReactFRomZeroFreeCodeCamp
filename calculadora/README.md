@@ -2,7 +2,7 @@
 
 Proyecto del curso de FreeCodeCamp **Aprende React desde Cero - Curso de React con proyectos**
 
-
+Utilizo las **props children** para poder utilizarla en los componentes hijos
 
 ---
 
