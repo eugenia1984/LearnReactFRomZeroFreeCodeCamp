@@ -1,6 +1,8 @@
-# :book: Proyecto: Contador de clicks
+# :book: Proyecto: Calculadora
 
-Tiene dos componentes *boton* y *contador* y se utilizan los **hooks** para manejar estados.
+Proyecto del curso de FreeCodeCamp **Aprende React desde Cero - Curso de React con proyectos**
+
+
 
 ---
 

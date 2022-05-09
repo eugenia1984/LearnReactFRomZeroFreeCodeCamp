@@ -12,6 +12,9 @@ A [YouTube](https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=2s) course from FreeCo
 
 [Clicks counter](https://github.com/eugenia1984/LearnReactFRomZeroFreeCodeCamp/tree/main/contador_de_clicks)
 
+
+[Calculator](https://github.com/eugenia1984/LearnReactFRomZeroFreeCodeCamp/tree/main/calculadora)
+
 ---
 
 ## Builded with 🛠️
@@ -66,7 +69,7 @@ ESPAÑOL
 - [Contador de clicks](https://github.com/eugenia1984/LearnReactFRomZeroFreeCodeCamp/tree/main/contador_de_clicks)
 
 
-- Calculadora interactiva
+- [Calculadora interactiva](https://github.com/eugenia1984/LearnReactFRomZeroFreeCodeCamp/tree/main/calculadora)
 
 
 - Aplicación de tareas
