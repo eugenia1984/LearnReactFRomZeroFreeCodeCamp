@@ -22,7 +22,7 @@ function App() {
           alt='Logo de FreeCodeCamp' />
       </div>
       <div className="contenedor-calculadora">
-        <Pantalla input={input}/>
+        <Pantalla input={input} />
         <div className='fila'>
           <Boton manejarClic={agregarInput}>1</Boton>
           <Boton manejarClic={agregarInput}>2</Boton>
